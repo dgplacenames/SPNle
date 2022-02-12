@@ -1,3 +1,7 @@
+# SPNle
+
+This a Scottish place-name version of the clone below. Place-names taken from https://www.visionofbritain.org.uk/data/
+
 # React Wordle
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
