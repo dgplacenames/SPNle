@@ -1,5 +1,5 @@
 export const WORDS = [
- 'korka',
+'korka',
 'tubeg',
 'kells',
 'golta',
