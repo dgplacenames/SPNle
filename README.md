@@ -1,4 +1,4 @@
-# SPNle (Scottish Place-Name Wordle)
+# Scottish Place-Name Wordle (SPNle)
 
 This a Scottish place-name version Wordle, based on the [React-Wordle](https://github.com/cwackerfuss/react-wordle) clone.
 
