@@ -12,7 +12,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         SPNle (Scottish Place-Name Wordle) is an open source version of the word guessing game we all know and
         love -{' '}
         <a
-          href="https://github.com/dgplacenames/react-wordle"
+          href="https://github.com/dgplacenames/SPNle"
           className="underline font-bold"
         >
           check out the code here
