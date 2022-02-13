@@ -1,4 +1,4 @@
-# SPNle
+# SPNle (Scottish Place-Name Wordle)
 
 This a Scottish place-name version of the clone below. Place-names taken from https://www.visionofbritain.org.uk/data/
 
