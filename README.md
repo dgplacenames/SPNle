@@ -1,6 +1,6 @@
 # Scottish Place-Name Wordle (SPNle)
 
-This a Scottish place-name version Wordle, based on the [React-Wordle](https://github.com/cwackerfuss/react-wordle) clone.
+This is a Scottish place-name version Wordle, based on the [React-Wordle](https://github.com/cwackerfuss/react-wordle) clone.
 
 There are just under 1300 place-names to chose from. The names are from the 2nd edition 6-inch Ordnance Survey, taken from the [GB1900 Gazetteer](https://www.visionofbritain.org.uk/data/).
 
