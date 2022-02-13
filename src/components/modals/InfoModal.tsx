@@ -15,36 +15,36 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="W" status="correct" />
-        <Cell value="E" />
+        <Cell value="D" status="correct" />
         <Cell value="A" />
+        <Cell value="L" />
         <Cell value="R" />
         <Cell value="Y" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter W is in the place-name and in the correct spot.
+        The letter D is in the place-name and in the correct spot.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="P" />
-        <Cell value="I" />
-        <Cell value="L" status="present" />
+        <Cell value="S" />
+        <Cell value="K" />
+        <Cell value="E" status="present" />
         <Cell value="O" />
-        <Cell value="T" />
+        <Cell value="G" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter L is in the place-name but in the wrong spot.
+        The letter E is in the place-name but in the wrong spot.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="V" />
-        <Cell value="A" />
-        <Cell value="G" />
-        <Cell value="U" status="absent" />
-        <Cell value="E" />
+        <Cell value="C" />
+        <Cell value="R" />
+        <Cell value="O" />
+        <Cell value="G" status="absent" />
+        <Cell value="O" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        The letter U is not in the place-name in any spot.
+        The letter G is not in the place-name in any spot.
       </p>
     </BaseModal>
   )
