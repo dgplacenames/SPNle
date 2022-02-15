@@ -6,7 +6,7 @@ There are just under 1300 place-names to chose from. The names are from the 2nd 
 
 Never heard of the place? Type the answer into the [National Library of Scotland's GB1900 viewer](https://geo.nls.uk/maps/gb1900/#zoom=6&lat=55.0000&lon=-2.5000&layer=0) to see it on the map.
 
-Play the game here: http://maps.gisforthought.com:3000/
+Play the game here https://spnle.vercel.app/ or here http://maps.gisforthought.com:3000/
 
 <p align="center">
 <img src="/Scotland_Wordle_Map.png" width="500">
